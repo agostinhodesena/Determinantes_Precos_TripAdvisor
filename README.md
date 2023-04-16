@@ -1,6 +1,7 @@
 # Determinantes dos preços dos restaurantes de SP disponíveis no TripAdvisor
-#### Por Guilherme Agostinho (https://www.linkedin.com/in/guilhermeagostinho/)
-#### (Você pode me ver falar sobre esse projeto no DataFrame e no Youtube.)
+*Por Guilherme Agostinho (https://www.linkedin.com/in/guilhermeagostinho/)*
+<br>
+*(Você pode me ver falar sobre esse projeto no DataFrame e no Youtube.)*
 
 ### Um pouco de teoria:
 ***
