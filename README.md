@@ -26,9 +26,9 @@ Um empresário deseja abrir um restaurante em SP e além da análise de custos p
 ### Fases do projeto:
 ***
 Esse projeto é composto por 6 fases:
-1. Coleta dos nomes dos restaurantes e urls de cada um no TripAdvisor. (Disponível)
-2. Coleta de informações de cada restaurante. (Disponível)
-3. Construção da base. (Disponível)
+1. Coleta dos nomes dos restaurantes e urls de cada um no TripAdvisor. (Disponível em tripAdvisorExtracaoFase1.ipynb)
+2. Coleta de informações de cada restaurante. (Disponível em tripAdvisorExtracaoFase2.ipynb)
+3. Construção da base. (Disponível em tripAdvisorConstrucaoBaseFase3.ipynb)
 4. Análise Exploratória de Dados. (Em construção)
 5. Análise dos determinantes abstratos do preço através de regressão linear. (Em construção)
 6. Análise das avaliações dos restaurantes através de métodos do processamento de linguagem natural (NPL). (Em construção)
