@@ -8,12 +8,15 @@ No entanto, esse tipo de estrutura de mercado não existe na prática. O que exi
 
 ### Problema, objetivo e hipóteses:
 ***
-Um empresário deseja abrir um restaurante em SP e além da análise de custos precisa fazer uma análise de mercado para definir os preços da empresa. 
+Um empresário deseja abrir um restaurante em SP e além da análise de custos precisa fazer uma análise de mercado para definir os preços da empresa. Nesse sentido, o objetivo desse projeto é entender quais fatores concretos (localização, vantagens) e intagíveis (avaliações sobre bom atendimento, ambiente) influenciam o preço.
 
+**Perguntas a serem respondidas**:
+- Localização, vantagens, tipo de cozinha e boas notas impactam no preço?
+- Que tipo de fatores intangíveis determinam preços.
 
 **Hipóteses iniciais**:
-- Restaurantes em zonas mais elitizadas têm preços mais altos.
-- Restaurantes que oferecem vantagens têm preços mais altos.
+- Restaurantes em zonas mais elitizadas têm preços mais altos. Ou seja, se ele abrir em um local elitizado poderá cobrar mais.
+- Restaurantes que oferecem vantagens têm preços mais altos. O dono do restaurante pode oferecer mais vantagens e cobrar um valor maior de seus pratos.
 - Restaurantes com boas notas podem incorporar a avaliação dos clientes em seus preços, tornando-os mais altos.
 
 ### Fases:
