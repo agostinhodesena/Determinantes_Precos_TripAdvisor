@@ -12,7 +12,7 @@ No entanto, esse tipo de estrutura de mercado não existe na prática. O que exi
 
 ### Problema, objetivo e hipóteses:
 ***
-Um empresário deseja abrir um restaurante em SP e além da análise de custos precisa fazer uma análise de mercado para definir os preços da empresa. Nesse sentido, o objetivo desse projeto é entender quais fatores concretos (localização, vantagens) e intagíveis (avaliações sobre bom atendimento, ambiente) influenciam o preço.
+Um empresário deseja abrir um restaurante em SP e além da análise de custos precisa fazer uma análise de mercado para definir os preços da empresa. Nesse sentido, o objetivo desse projeto é entender quais fatores (localização, vantagens, avaliações sobre bom atendimento, ambiente) influenciam o preço.
 
 **Perguntas a serem respondidas**:
 - Localização, vantagens, tipo de cozinha e boas notas impactam no preço?
