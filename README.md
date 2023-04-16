@@ -1,5 +1,6 @@
 # Determinantes dos preços dos restaurantes de SP disponíveis no TripAdvisor
 #### Por Guilherme Agostinho (https://www.linkedin.com/in/guilhermeagostinho/)
+#### (Você pode me ver falar sobre esse projeto no DataFrame e no Youtube.)
 
 ### Um pouco de teoria:
 ***
@@ -20,7 +21,7 @@ Um empresário deseja abrir um restaurante em SP e além da análise de custos p
 - Restaurantes que oferecem vantagens têm preços mais altos. O dono do restaurante pode oferecer mais vantagens e cobrar um valor maior de seus pratos.
 - Restaurantes com boas notas podem incorporar a avaliação dos clientes em seus preços, tornando-os mais altos.
 
-### Fases:
+### Fases do projeto:
 ***
 Esse projeto é composto por 6 fases:
 1. Coleta dos nomes dos restaurantes e urls de cada um no TripAdvisor. (Disponível)
