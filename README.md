@@ -6,17 +6,19 @@
 Conforme a teoria microeconômica, o processo de determinação de preços depende das estruturas de mercado que uma empresa está inserida. Se ela pertence a um mercado de **competição perfeita**, que por definição é composto de grande quantidade de compradores e vendedores que produzem e vendem produtos sem características próprias para indivíduos específicos, o preço de um produto deve ser igual ao seu custo de produção. De modo teórico, **preço é igual ao custo marginal.**
 No entanto, esse tipo de estrutura de mercado não existe na prática. O que existem são mercados com concorrência monopolística que buscam diferenciar seu produto, seja através de marketing, 
 
-### O problema:
+### Problema, objetivo e hipóteses:
 ***
-X
+Um empresário deseja abrir um restaurante em SP e além da análise de custos precisa fazer uma análise de mercado para definir os preços da empresa. 
 
-### Objetivo:
-***
-X
+
+**Hipóteses iniciais**:
+- Restaurantes em zonas mais elitizadas têm preços mais altos.
+- Restaurantes que oferecem vantagens têm preços mais altos.
+- Restaurantes com boas notas podem incorporar a avaliação dos clientes em seus preços, tornando-os mais altos.
 
 ### Fases:
 ***
-Esse projeto é composto por X fases:
+Esse projeto é composto por 6 fases:
 1. Coleta dos nomes dos restaurantes e urls de cada um no TripAdvisor. (Disponível)
 2. Coleta de informações de cada restaurante. (Disponível)
 3. Construção da base. (Disponível)
