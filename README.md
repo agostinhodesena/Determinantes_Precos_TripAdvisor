@@ -4,6 +4,7 @@
 ### Um pouco de teoria:
 ***
 Conforme a teoria microeconômica, o processo de determinação de preços depende das estruturas de mercado que uma empresa está inserida. Se ela pertence a um mercado de **competição perfeita**, que por definição é composto de grande quantidade de compradores e vendedores que produzem e vendem produtos sem características próprias para indivíduos específicos, o preço de um produto deve ser igual ao seu custo de produção. De modo teórico, **preço é igual ao custo marginal.**
+<br>
 No entanto, esse tipo de estrutura de mercado não existe na prática. O que existem são mercados com concorrência monopolística que buscam diferenciar seu produto, seja através de marketing, 
 
 ### Problema, objetivo e hipóteses:
